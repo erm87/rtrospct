@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://198.211.108.140/",
+    "apiUrl": "http://198.211.108.140",
     "contentApiKey": "f14427e2f957954fa56d9fcdbf"
   },
   "production": {
-    "apiUrl": "http://198.211.108.140/",
+    "apiUrl": "http://198.211.108.140",
     "contentApiKey": "f14427e2f957954fa56d9fcdbf"
   }
 }
