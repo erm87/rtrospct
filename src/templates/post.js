@@ -30,7 +30,7 @@ const Post = ({ data, location }) => {
                     <article className="content">
                         { post.feature_image ?
                             <figure className="post-feature-image">
-                                <img src="https://res.cloudinary.com/rtrospct/image/fetch/w_auto,c_scale,q_auto,f_auto,dpr_auto/" + { post.feature_image } alt={ post.title } />
+                                <img src='https://res.cloudinary.com/rtrospct/image/fetch/w_auto,c_scale,q_auto,f_auto,dpr_auto/' + { post.feature_image } alt={ post.title } />
                             </figure> : null }
                         <section className="post-full-content">
                             <h1 className="content-title">{post.title}</h1>
