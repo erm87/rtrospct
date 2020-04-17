@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://198.211.108.140",
-    "contentApiKey": "f14427e2f957954fa56d9fcdbf"
+    "apiUrl": "https://ericmorgan.ghost.io",
+    "contentApiKey": "183a10fbf50052b29f721186de"
   },
   "production": {
-    "apiUrl": "http://198.211.108.140",
-    "contentApiKey": "f14427e2f957954fa56d9fcdbf"
+    "apiUrl": "https://ericmorgan.ghost.io",
+    "contentApiKey": "183a10fbf50052b29f721186de"
   }
 }
